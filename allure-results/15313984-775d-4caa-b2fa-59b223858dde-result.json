@@ -1,0 +1,61 @@
+{
+  "uuid": "15313984-775d-4caa-b2fa-59b223858dde",
+  "historyId": "11b2c54e6b8119f39adcc151ff715103",
+  "fullName": "demo.googlesearch",
+  "labels": [
+    {
+      "name": "package",
+      "value": "demo"
+    },
+    {
+      "name": "testClass",
+      "value": "demo"
+    },
+    {
+      "name": "testMethod",
+      "value": "googlesearch"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "demo"
+    },
+    {
+      "name": "subSuite",
+      "value": "demo"
+    },
+    {
+      "name": "host",
+      "value": "efe"
+    },
+    {
+      "name": "thread",
+      "value": "7337@efe.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "googlesearch",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1680589650590,
+  "stop": 1680589667556
+}
