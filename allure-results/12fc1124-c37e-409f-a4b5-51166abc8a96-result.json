@@ -1,0 +1,61 @@
+{
+  "uuid": "12fc1124-c37e-409f-a4b5-51166abc8a96",
+  "historyId": "5cd9390638d3a92ab82e1ec05cb9243c",
+  "fullName": "demo.amazonsearch",
+  "labels": [
+    {
+      "name": "package",
+      "value": "demo"
+    },
+    {
+      "name": "testClass",
+      "value": "demo"
+    },
+    {
+      "name": "testMethod",
+      "value": "amazonsearch"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "demo"
+    },
+    {
+      "name": "subSuite",
+      "value": "demo"
+    },
+    {
+      "name": "host",
+      "value": "efe"
+    },
+    {
+      "name": "thread",
+      "value": "5571@efe.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "amazonsearch",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1680589523616,
+  "stop": 1680589552674
+}
