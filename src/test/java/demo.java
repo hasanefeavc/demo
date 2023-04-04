@@ -67,7 +67,7 @@ public class demo {
 
         driver.get("https://www.google.com");
 
-        WebElement searchtext = driver.findElement(By.xpath("//input[@class='gLFyf']"));
+        WebElement searchtext = driver.findElement(By.xpath("//inpu[@class='gLFyf']"));
         searchtext.sendKeys("google");
 
         searchtext.submit();
